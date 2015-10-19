@@ -17,7 +17,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
 
         TextView text = new TextView(this);
         text.setTextSize(40);
-        String intro = "Your favorite scripture is";
+        String intro = "Your favorite scripture is"; 
         text.setText(intro);
 
         // Get the message from the intent
