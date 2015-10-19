@@ -14,3 +14,6 @@
 >>>>>>> d3a6aa65ad69dc942c96ecbbee1babd3660ed312
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Desktop/hello1/nbproject/private/
+/Desktop/hello1/build/
+/Desktop/burton/nbproject/private/
